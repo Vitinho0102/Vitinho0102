@@ -24,3 +24,10 @@
   <a href = "mailto:vipasquarelli05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-pasquarelli-cinalli-823984230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitinho0102/Vitinho0102/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: ligth)"srcset="https://raw.githubusercontent.com/Vitinho0102/Vitinho0102/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src=https:raw.githubusercontent.com/Vitinho0102/Vitinho0102/output/github-contribution-grid-snake.svg"> 
+</picture>
+<br><br>
