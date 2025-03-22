@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on portifólio project
 - 🌱 I’m currently learning Web development
-- 💬 Ask me about 
+- 💬 Ask me about Front-end issues
 - ⚡ Fun fact: I love playing video game
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitinho0102&show_icons=true&theme=transparent&hide=contribs)
