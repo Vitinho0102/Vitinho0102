@@ -1,12 +1,10 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=524&lines=Olá,+sou+Vitor+Cinalli 👋!" alt="Typing SVG">
-  </a>
+  Hi, my name is Vitor! 👋
 </div>
 
 - 🔭 I’m currently working on portifólio project
-- 🌱 I’m currently learning Web development
-- 💬 Ask me about Front-end issues
+- 🌱 I’m currently learning python automations
+- 💬 Ask me about python aplications issues
 - ⚡ Fun fact: I love playing video game
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitinho0102&show_icons=true&theme=transparent&hide=contribs)
